@@ -3,3 +3,13 @@
 main{
     margin-top:6rem
 }
+
+.grad{
+   
+   
+    text-align: center;
+    background-image: linear-gradient(
+        black,white
+    );
+}
+
